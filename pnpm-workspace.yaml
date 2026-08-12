@@ -1,4 +1,6 @@
 packages: []
 
+enableGlobalVirtualStore: true
+
 allowBuilds:
   esbuild: true
